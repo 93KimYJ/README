@@ -10,3 +10,5 @@
 
 ## STACKS
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+
+![gg](https://user-images.githubusercontent.com/120360958/207530600-eba64a8d-a854-49c4-861c-5e5461ff4350.PNG)
